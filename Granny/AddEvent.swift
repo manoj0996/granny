@@ -2,8 +2,7 @@
 //  AddEvent.swift
 //  My Granny
 //
-//  Created by Sedenion technologies on 14/05/2020.
-//  Copyright © 2020 Sedenion technologies. All rights reserved.
+// created by Manoj Challagunda
 //
 
 import UIKit
