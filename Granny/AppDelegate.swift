@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  myy granny
 //
-//  Created by Sedenion technologies on 12/10/2020.
+// created by Manoj Challagunda
 //
 
 import UIKit
